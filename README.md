@@ -1,6 +1,6 @@
-<div align="center">
+<div aliign="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=28&pause=1200&color=1E5EFF&center=true&vCenter=true&width=700&lines=IMANI+POPOOLA;Full-Stack+Developer;Product+Focused+Builder;Building+Modern+Digital+Experiences" alt="typing banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=28&pause=1200&color=1E5EFF&center=true&vCenter=true&width=700&lines=IMANI;Full-Stack+Developer;Product+Focused+Builder;Building+Modern+Digital+Experiences" alt="typing banner" />
 
   <p>
     <img src="https://img.shields.io/badge/Status-Available%20for%20opportunities-1E5EFF?style=for-the-badge&labelColor=0B1020&logoColor=ffffff" />
