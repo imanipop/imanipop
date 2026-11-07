@@ -87,16 +87,6 @@ I enjoy turning ideas into practical, scalable, and visually clean products.
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=imanipop&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B1020&title_color=BCFF4A&icon_color=1E5EFF&text_color=EAF2FF&custom_title=GitHub%20Overview" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imanipop&layout=compact&theme=tokyonight&hide_border=true&bg_color=0B1020&title_color=BCFF4A&text_color=EAF2FF" alt="Top Languages" />
-</div>
-
 ---
 
 ## Let's Connect
